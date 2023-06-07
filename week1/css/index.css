@@ -1,0 +1,124 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Castoro', serif;
+  line-height: 1.5;
+  font-size: 24px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+img {
+  vertical-align: middle;
+}
+
+.container {
+  max-width: 1320px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.bg-gray {
+  background-color: #efefef;
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+.image {
+  display: block;
+  max-width: 636px;
+}
+
+.title-l {
+  font-size: 128px;
+  letter-spacing: 0.12em;
+}
+
+.title {
+  font-size: 40px;
+  color: #ae0000;
+  border-bottom: 1px solid #ae0000;
+  /* box-shadow: 0 1px 0 0 #AE0000; */
+  /* border-bottom會佔 1px 的高度，box-shadow 不會佔 1px 的高度 */
+}
+
+.title-m {
+  font-size: 32px;
+}
+
+.text {
+  font-size: 20px;
+  color: #949494;
+  font-style: italic;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ml-auto {
+  margin-left: auto;
+}
+
+.mb-8 {
+  margin-bottom: 8px;
+}
+
+.mb-12 {
+  margin-bottom: 12px;
+}
+
+.mb-16 {
+  margin-bottom: 16px;
+}
+
+.mb-40 {
+  margin-bottom: 40px;
+}
+
+.mb-80 {
+  margin-bottom: 80px;
+}
+
+.mb-160 {
+  margin-bottom: 160px;
+}
+
+.mt-160 {
+  margin-top: 160px;
+}
+
+.mr-40 {
+  margin-right: 40px;
+}
+
+.footer {
+  background-color: #000000;
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+.footer-list {
+  display: flex;
+  justify-content: center;
+}
