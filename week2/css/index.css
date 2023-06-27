@@ -229,6 +229,7 @@ img {
   padding: 160px 0;
   background-image: url('../images/background-img.png');
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .about {
