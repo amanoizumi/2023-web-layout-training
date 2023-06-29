@@ -26,28 +26,52 @@ img {
   margin: 0 auto;
 }
 
+.col-1 {
+  width: 6.635%;
+}
+
 .col-2 {
-  width: 16.666%;
+  width: 15.123%;
+}
+
+.col-3 {
+  width: 23.611%;
 }
 
 .col-4 {
-  width: 33.333%;
+  width: 32.098%;
 }
 
 .col-5 {
-  width: 41.666%;
+  width: 40.586%;
 }
 
 .col-6 {
-  width: 50%;
+  width: 49.074%;
 }
 
 .col-7 {
-  width: 58.333%;
+  width: 57.561%;
 }
 
 .col-8 {
-  width: 66.666%;
+  width: 66.049%;
+}
+
+.col-9 {
+  width: 74.537%;
+}
+
+.col-10 {
+  width: 83.024%;
+}
+
+.col-11 {
+  width: 91.512%;
+}
+
+.col-12 {
+  width: 100%;
 }
 
 /* text color */
